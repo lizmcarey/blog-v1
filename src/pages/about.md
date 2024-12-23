@@ -16,6 +16,10 @@ Which version of images makes sense.
 **version 2** 
 ![Liz and leoanrd Medoc](@assets/images/AboutPageImgs/Leonard-Liz-Medoc-Marathon.png)
 
+**version 3 ** 
+<div>
+  <img src="/assets/aboutPage/Leonard-Liz-Medoc-Marathon-public.png" class="sm:w-3/4 mx-auto" alt="Liz and Leonard at Medoc Marathon">
+</div>
 
 
 ## Tech Stack
