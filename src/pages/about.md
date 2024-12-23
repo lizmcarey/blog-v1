@@ -4,41 +4,29 @@ title: "About"
 ---
 
 
+Hi 👋 I'm Liz, and this website is a log of all the recipes that I, my husband Leonard, and sometimes our dog Bailey love to enjoy.
 
-
-Which version of images makes sense. 
-
-*version 1* 
 <div>
-  <img src="/assets/aboutPage/Leonard-Liz-Medoc-Marathon-public.png" class="sm:w-1/2 mx-auto" alt="Liz and Leonard at Medoc Marathon">
+  <img src="/assets/aboutPage/lizLeonardBaileyTruck.png" class="sm:w-3/4 mx-auto" alt="Liz and Leonard at Medoc Marathon">
+  <figcaption class="sm:w-3/4 mx-auto text-center">Liz, Leonard and the doggo, Bailey</figcaption>
 </div>
 
-**version 2** 
-![Liz and leoanrd Medoc](@assets/images/AboutPageImgs/Leonard-Liz-Medoc-Marathon.png)
+When we first started working remotely during the pandemic, cooking at home together felt like a new and exciting adventure. We were constantly trying ambitious recipes, experimenting with flavors and techniques. But as time went on, the endless grocery trips and mountains of dishes started to wear us down. We fell into cooking ruts, settling for the easiest meals that required the least cleanup—some truly sad desk lunches that I won't mention here. 
 
-**version 3 ** 
+We realized we needed simpler recipes with fewer rare ingredients and easier cleanup, meals that offered more "bang" for the time and effort we put into making them.
+
+While some recipes are absolutely worth the hassle, we've learned to streamline where we can, cutting out steps that don't add much to the final dish. We prioritize meals that can be made in bulk, eaten cold, or reheated without sacrificing quality.
+
+Hence the blog title: **Remote Loaf**— a collection of recipes for lazy-ish cooks who still want delicious, satisfying meals.
+
+As recreational runners who play in local tennis leagues, we also share pre-workout meals and grab-and-go recipes that fit into an active lifestyle.
+
+Our recipes are inspired by our local food scene in San Francisco, our family heritage (a mix of Chinese, Vietnamese, and Brazilian), and some of our favorite chefs. 
+
+We hope you find something here to love as much as we do!
+
+
 <div>
   <img src="/assets/aboutPage/Leonard-Liz-Medoc-Marathon-public.png" class="sm:w-3/4 mx-auto" alt="Liz and Leonard at Medoc Marathon">
+  <figcaption class="sm:w-3/4 mx-auto text-center">Running the Medoc Marathon in 2024</figcaption>
 </div>
-
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
