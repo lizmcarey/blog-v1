@@ -2,7 +2,7 @@
 author: Liz Carey
 pubDatetime: 2024-12-23
 modDatetime: 2024-12-23
-title: Kale Salad 
+title: A kale salad that doesn't suck
 slug: kale-salad
 featured: true
 draft: false
@@ -10,7 +10,7 @@ tags:
   - salad
   - side
 description:
-  Kale salad that's perfect as a side dish or a satisfying main entree
+  A kale salad that's perfect as a side dish or a satisfying main entree
 ---
 
 Often times salads are served as an afterthought. 
