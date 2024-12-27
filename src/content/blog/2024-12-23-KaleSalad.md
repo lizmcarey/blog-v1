@@ -8,7 +8,8 @@ featured: true
 draft: false
 tags:
   - salad
-  - side
+  - sides
+categories: ["Sides"]
 description:
   A kale salad that's perfect as a side dish or a satisfying main entree
 ---

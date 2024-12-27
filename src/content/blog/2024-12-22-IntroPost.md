@@ -8,6 +8,7 @@ featured: true
 draft: false
 tags:
   - others
+categories: []
 description:
   First blog post. Testing out the stuff. Testingggggg...
 ---
