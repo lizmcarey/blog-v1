@@ -10,6 +10,7 @@ tags:
   - cheese
   - potluck
 categories: [Snacks]
+image: "/assets/2024-12-28-CheeseBall/cheeseBall.png"
 description:
   A somewhat savage and somewhat fall themed recipe, surprisingly tasty and fun to share
 ---
