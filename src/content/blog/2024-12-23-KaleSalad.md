@@ -10,6 +10,7 @@ tags:
   - salad
   - sides
 categories: ["Sides"]
+image: "/assets/2024-12-23-KaleSalad/kaleSalad.png"
 description:
   A kale salad that's perfect as a side dish or a satisfying main entree
 ---

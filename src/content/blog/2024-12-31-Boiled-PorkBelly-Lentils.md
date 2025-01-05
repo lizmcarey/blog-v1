@@ -2,7 +2,7 @@
 author: Liz Carey
 pubDatetime: 2024-12-31
 modDatetime: 2024-12-31
-title: Boiled Pork Belly and Lentils
+title: Boiled pork belly and lentils
 slug: boiled-pork-belly-lentils
 featured: true
 draft: false

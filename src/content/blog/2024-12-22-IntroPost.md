@@ -4,7 +4,7 @@ pubDatetime: 2024-12-22
 modDatetime: 2024-12-22
 title: Intro 
 slug: intro-post
-featured: true
+featured: false
 draft: false
 tags:
   - others

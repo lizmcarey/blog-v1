@@ -1,5 +1,4 @@
 import { slugifyStr } from "@utils/slugify";
-import Datetime from "./Datetime";
 import type { CollectionEntry } from "astro:content";
 
 export interface Props {
@@ -9,7 +8,7 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { title, pubDatetime, modDatetime, description } = frontmatter;
+  const { title, description, image } = frontmatter;
 
   const headerProps = {
     style: { viewTransitionName: slugifyStr(title) },
@@ -22,14 +21,24 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
         href={href}
         className="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
       >
+        {/* Render the image if it exists */}
+        {image && (
+          <div className="image-container">
+            <img
+              src={image}
+              alt={`Image for ${title}`}
+              className="image"
+            />
+          </div>
+        )}
+
         {secHeading ? (
-          <h2 {...headerProps}>{title}</h2>
+          <h2 {...headerProps} className="text-center">{title}</h2> // Center title
         ) : (
-          <h3 {...headerProps}>{title}</h3>
+          <h3 {...headerProps} className="text-center">{title}</h3> // Center title
         )}
       </a>
-      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} />
-      <p>{description}</p>
+      <p className="text-center">{description}</p> {/* Center description */}
     </li>
   );
 }
