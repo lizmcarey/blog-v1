@@ -22,13 +22,14 @@ description:
 
 How much do you love Doritos? </br>
 
-Enough to navigate to the Doritos website and realize they have a [recipes section](https://www.doritos.com/recipes) so that you can incorporate Doritos into everyday meals? 
+Enough to navigate to the Doritos website and realize they have a [recipes section](https://www.doritos.com/recipes) so you can be inspirted to incorporate Doritos into everyday meals? 
 
 One recipe from their website caught my eye, the [Doritos pumpkin cheeseball](https://www.doritos.com/recipes/doritos-pumpkin-cheeseball). </br> 
 
-While I wasn't too enarmored with the listed ingredients from the original recipe, I really enjoyed the creativity. So I went ahead and adapted the indredient to map onto [the cheese ball recipe from NYT Cooking](https://cooking.nytimes.com/recipes/1018455-bits-and-pieces-party-cheese-ball) 
+While I wasn't too enarmored with the listed ingredients from the original recipe, I really enjoyed the creativity. So I went ahead and swapped the indredients from [the cheese ball recipe from NYT Cooking](https://cooking.nytimes.com/recipes/1018455-bits-and-pieces-party-cheese-ball) 
 
 --- 
+## Prep & Cook Details  
 **Prep time:** 15 minutes </br> 
 **Cook time:** 0 minutes
 

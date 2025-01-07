@@ -15,14 +15,22 @@ description:
   A kale salad that's perfect as a side dish or a satisfying main entree
 ---
 
+<div>
+  <img src="/assets/2024-12-23-KaleSalad/kaleSalad.png" class="sm:w-3/4 mx-auto" alt="A pumpkin shaped cheeseball">
+  <figcaption class="sm:w-3/4 mx-auto text-center">Kale salad</figcaption>
+</div>
+
+
 Often times salads are served as an afterthought. 
-> Here are some green leaves! Look, it's green, therefore it's healthy, so just shove it down your throat. No need to try to dress it up. 
+> Look, it's green, therefore it's healthy, so just shove it down your throat; no need to try to dress it up. 
 
 But salads should be much more than an afterthought. When treated right, salads can be wondrously delicious. 
 
-This recipe is from Joshuse McFadden's, Six Seasons. 
+This recipe is from Joshusa McFadden's, Six Seasons. 
 
 For this recipe, you want Lacinato kale (aka dino kale). Don't get the curly kale- that shit is prickly and tastes terrible when raw imo. 
+
+I love to eat this as a main for lunch, or accompany any dish for dinner. 
 
 --- 
 

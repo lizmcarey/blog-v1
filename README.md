@@ -1,8 +1,9 @@
 # My recipe blog
 
-Code used to host my recipe blog. 
+This is my recipe blog: [Remote Loaf](https://remote-loaf.netlify.app)
 
-Base theme is Astropaper with edits of my own. 
+The website base theme is [AstroPaper theme](https://github.com/satnaing/astro-paper) with edits of my own. 
+
 
 
 ## 💻 Tech Stack
