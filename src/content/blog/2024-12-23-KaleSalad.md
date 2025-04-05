@@ -53,12 +53,12 @@ I love to eat this as a main for lunch, or accompany any dish for dinner.
 
 
 2. **Make the dressing** 
-- Mince the garlic into a fine paste (or use a microplane) and transfer to a small bowl.
-- Add the Pecorino cheese, some olive oil, lemon juice, a sprinkle of chile flakes, and salt. 
-- Whisk until combined.
+    - Mince the garlic into a fine paste (or use a microplane) and transfer to a small bowl.
+    - Add the Pecorino cheese, some olive oil, lemon juice, a sprinkle of chile flakes, and salt. 
+    - Whisk until combined.
 
 
 3. **Dress & serve the salad**
-- Pour the dressing over the kale and toss thoroughly to coat. 
-- Taste and adjust the seasoning with more lemon juice, salt, chile flakes, as needed
-- *Optional:* Top the salad with bread crumbs for crunch
+    - Pour the dressing over the kale and toss thoroughly to coat. 
+    - Taste and adjust the seasoning with more lemon juice, salt, chile flakes, as needed
+    - *Optional:* Top the salad with bread crumbs for crunch
