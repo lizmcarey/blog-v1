@@ -48,8 +48,8 @@ I love to eat this as a main for lunch, or accompany any dish for dinner.
 
 ## Instructions
 1. **Prepare/Chiffonade the kale** 
-- Stack several kale leaves on top of one another and roll them into a tight cylinder. (No need to "massage" the kale, rolling them up into cylinders will tendorize the leaves enough)
-- Slice leaves crosswise into very thin ribbons (about 1/16 inch)
+    - Stack several kale leaves on top of one another and roll them into a tight cylinder. (No need to "massage" the kale, rolling them up into cylinders will tendorize the leaves enough)
+    - Slice leaves crosswise into very thin ribbons (about 1/16 inch)
 
 
 2. **Make the dressing** 

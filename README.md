@@ -2,7 +2,7 @@
 
 This is my recipe blog: [Remote Loaf](https://remote-loaf.netlify.app)
 
-The website base theme is [AstroPaper theme](https://github.com/satnaing/astro-paper) with edits of my own. 
+The website base theme is the [AstroPaper theme](https://github.com/satnaing/astro-paper) with edits of my own. 
 
 
 
@@ -24,6 +24,4 @@ The website base theme is [AstroPaper theme](https://github.com/satnaing/astro-p
 
 Licensed under the MIT License, Copyright © 2023
 
----
 
-Made with 🤍 by [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/satnaing/astro-paper/graphs/contributors).
